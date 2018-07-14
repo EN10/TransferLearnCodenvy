@@ -11,6 +11,10 @@ This can be an much faster (in a few minutes) than training from scratch ([Incep
 
 [Tensorflow Builds](https://github.com/lakshayg/tensorflow-build)
 
+## Create Codenvy project
+    mkdir retrain
+    cd retrain
+
 ## Download Flowers
     curl -LO http://download.tensorflow.org/example_images/flower_photos.tgz
     tar xzf flower_photos.tgz
