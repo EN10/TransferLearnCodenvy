@@ -3,7 +3,7 @@
 Retraining one of Google's CNN image classification models to new categories using Transfer Learning.
 This can be an much faster (in a few minutes) than training from scratch ([Inception V3](https://github.com/EN10/KerasInception) took Google, 2 weeks).
 
-* Based on [Tensoflow Hub Retrain](https://github.com/EN10/TransferLearnColab)
+* Based on [Transfer Learning Colab](https://github.com/EN10/TransferLearnColab)
 
 ## Install
     sudo pip install --ignore-installed --upgrade https://github.com/lakshayg/tensorflow-build/releases/download/tf1.9.0-ubuntu16.04-py27-py35/tensorflow-1.9.0-cp35-cp35m-linux_x86_64.whl
