@@ -48,6 +48,9 @@ also only use 2 flowers e.g. roses and sunflowers : 1668 -> 591
 ## Use the Retrained Model
     python label_image.py --graph=/tmp/output_graph.pb --labels=/tmp/output_labels.txt --input_layer=Placeholder --output_layer=final_result --input_height=224 --input_width=224 --image=red-rose-500x500.jpg | grep 'roses\|sunflowers'
 
+## Save Model
+    cp /tmp/output* ./
+
 ## [Training on Your Own Categories](https://github.com/EN10/TensorFlowForPoets#training-on-your-own-categories)
 
 download images, rename folder, zip, upload, unzip, mkdir, mv   
