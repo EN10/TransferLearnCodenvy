@@ -61,7 +61,7 @@ Loads images on screen, in Google Images Scroll for more images.
 
 **Zip**: in windows right click - Send to - Compressed (zipped) folder
 
-**Upload**: in codency - Projects - Upload File
+**Upload**: in codenvy - Projects - Upload File
 
 #### Unzip
 
