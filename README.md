@@ -59,11 +59,13 @@ download images, rename folder, zip, upload, unzip, mkdir, mv
 [Batch Image downloader](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=en)    
 Loads images on screen, in Google Images Scroll for more images.
 
-Zip: right click - Send to - Compressed (zipped) folder
+**Zip**: in windows right click - Send to - Compressed (zipped) folder
+
+**Upload**: in codency - Projects - Upload File
 
 #### Unzip
 
-    !unzip foldername.zip
+    unzip foldername.zip
 
 #### Folders
 
